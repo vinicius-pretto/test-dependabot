@@ -6,4 +6,3 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 5
     target-branch: dependabot-package-update
-    versioning-strategy: lockfile-only

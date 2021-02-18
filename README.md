@@ -1,2 +1,1 @@
-# test-dependabot
-Test Dependabot
+# Test Dependabot

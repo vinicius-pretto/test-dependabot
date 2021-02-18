@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vinicius-pretto/test-dependabot/issues"
   },
-  "homepage": "https://github.com/vinicius-pretto/test-dependabot#readme"
+  "homepage": "https://github.com/vinicius-pretto/test-dependabot#readme",
+  "dependencies": {
+    "moment": "^2.15.0"
+  }
 }

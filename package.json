@@ -19,6 +19,7 @@
   "homepage": "https://github.com/vinicius-pretto/test-dependabot#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "lodash": "^4.17.0",
     "moment": "^2.15.0"
   }
 }
